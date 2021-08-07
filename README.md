@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @narliecholler a software engineer in the UK
-- 🌱 I’m currently learning mostly React
+- 👋 Hi, I’m Charlie, a software engineer in the UK!
+- 🌱 I like React/Typescript!
 - 📫 How to reach me - @charlienoller_ is my twitter 
 
 <!---
